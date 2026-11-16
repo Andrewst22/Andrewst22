@@ -83,11 +83,11 @@ Soy un apasionado **Desarrollador de Software** y entusiasta de los **Motores de
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- ================= GITHUB STATS (COMENTADO PARA EVITAR ERRORES) ================= -->
+<!-- 
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <!-- SI SIGUE DANDO ERROR, REVISA QUE "Andrewst093" SEA TU USUARIO EXACTO -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrewst093&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewst093&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=12&langs_count=8" />
 </div>
@@ -97,21 +97,20 @@ Soy un apasionado **Desarrollador de Software** y entusiasta de los **Motores de
 </div>
 
 ---
+-->
 
-<!-- ================= SOCIALS (Estilo Apps Android) ================= -->
+<!-- ================= SOCIALS (Iconos Grandes) ================= -->
 ### 🌐 Conecta conmigo
 
 <div align="center">
-  <a href="https://andrew-indol.vercel.app/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Website" height="48">
+  <a href="https://andrew-indol.vercel.app/" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="60" height="60" alt="Website" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Andrewst093" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" height="48">
+  <a href="https://x.com/Andrewst093" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="60" height="60" alt="X" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://ko-fi.com/andrewst9090" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=F16061" alt="Ko-fi" height="48">
+  <a href="https://ko-fi.com/andrewst9090" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/kofi/F16061" width="60" height="60" alt="Ko-fi" />
   </a>
 </div>
 
