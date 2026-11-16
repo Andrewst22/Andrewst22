@@ -10,9 +10,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Andrewst093&label=Profile%20views&color=39D353&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/Andrewst093?tab=followers">
-    <img src="https://img.shields.io/github/followers/Andrewst093?label=Followers&style=for-the-badge&color=39D353&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Andrewst22&label=Profile%20views&color=39D353&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/Andrewst22?tab=followers">
+    <img src="https://img.shields.io/github/followers/Andrewst22?label=Followers&style=for-the-badge&color=39D353&logo=github" alt="Followers" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Engines-blue?style=for-the-badge" />
 </div>
@@ -83,21 +83,55 @@ Soy un apasionado **Desarrollador de Software** y entusiasta de los **Motores de
 
 ---
 
-<!-- ================= GITHUB STATS (Descomenta cuando soluciones el error del usuario) ================= -->
-<!-- 
-### 📊 Mis Estadísticas de GitHub
+<!-- ================= FEATURED PROJECTS ================= -->
+### 🚀 Proyectos Destacados
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrewst093&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewst093&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=12&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewst093&theme=chartreuse-dark&hide_border=true&border_radius=12" alt="GitHub Streak" />
+  <a href="https://github.com/Andrewst22/Nebula">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrewst22&repo=Nebula&theme=chartreuse-dark&hide_border=true&border_radius=12" />
+  </a>
+  <a href="https://github.com/Andrewst22/Status-Keep">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrewst22&repo=Status-Keep&theme=chartreuse-dark&hide_border=true&border_radius=12" />
+  </a>
 </div>
 
 ---
--->
+
+<!-- ================= GITHUB STATS ================= -->
+### 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrewst22&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewst22&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=12&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewst22&theme=chartreuse-dark&hide_border=true&border_radius=12" alt="GitHub Streak" />
+</div>
+
+<!-- ================= TROPHIES ================= -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Andrewst22&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
+</div>
+
+---
+
+<!-- ================= ACTIVITY GRAPH (SNAKE) ================= -->
+### 🐍 Mi Actividad de Contribución
+
+<div align="center">
+  <!-- NOTA: Esta imagen requiere configurar un GitHub Action. Si no lo has hecho, no se verá. -->
+  <img src="https://raw.githubusercontent.com/Andrewst22/Andrewst22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<!-- ================= QUOTE ================= -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="Dev Quote" />
+</div>
+
+---
 
 <!-- ================= SOCIALS (Badges Grandes) ================= -->
 ### 🌐 Conecta conmigo
