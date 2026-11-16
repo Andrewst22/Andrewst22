@@ -1,36 +1,70 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hi,+I'm+Andrew;Software+Developer+%26+Builder" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Hi, I'm Andrew ⚡</h1>
 
-<p align="center">
-  <em>💻 Generalist software developer passionate about building, porting, and exploring game engine architecture. Always in constant learning across multiple technologies and platforms.</em>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=450&lines=Software+Developer+%26+Builder;Game+Engines+%26+Porting+Enthusiast" alt="Typing SVG" />
+  </a>
+</h3>
+
+---
+
+### 🔸 About me
+
+<table width="100%">
+<tr>
+<td width="65%">
+
+- 🔭 **I'm currently working on:** General software development, exploring game engine architecture, and porting mechanics.
+- 🌱 **I'm currently learning:** Constant evolution across multiple technologies, lower-level systems, and tools every single day.
+- 💬 **Ask me about:** JavaScript, Python, C++, Dart/Flutter, Godot, Unity, and Linux environments.
+- 🎮 **Outside tech:** Passionate about video gaming, homebrew development, and interactive experiences.
+- 🚀 **Check out my projects:** <a href="https://andrew-indol.vercel.app/" target="_blank">My Portfolio Website</a>
+- 📬 **Reach out to me via:** X (<a href="https://x.com/Andrewst093" target="_blank">@Andrewst093</a>) or support my work on <a href="https://ko-fi.com/andrewst9090" target="_blank">Ko-fi</a>!
+
+</td>
+<td width="35%" align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/hi.gif" width="180" />
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 My Skills Include
+
+#### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/DART-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/FLUTTER-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+#### **Databases & Storage**
+<p>
+  <img src="https://img.shields.io/badge/SQLITE-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+#### **Tools, Frameworks & OS**
+<p>
+  <img src="https://img.shields.io/badge/GIT-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20CODE-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GODOT-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/UNITY-%23100000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINUX-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### 🚀 Tech Stack & Skills
+### 📊 GitHub Stats
 
 <div align="center">
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `JavaScript`, `HTML5`, `CSS3`, `Python`, `C++`, `Dart` (Flutter) |
-| **Databases** | `SQLite`, `PostgreSQL` |
-| **Tools & OS** | `Git`, `VS Code`, `Godot`, `Unity`, `Linux` |
-
-</div>
-
-> *Note: Among the languages and tools listed above, I am in constant learning and evolution every day.*
-
----
-
-### 📊 GitHub Stats & Trophies
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Andrewst093&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewst093&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrewst093&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewst093&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
@@ -40,12 +74,12 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Check out my Social Media
 
 <p align="center">
-  <!-- Portfolio / Website -->
+  <!-- Website -->
   <a href="https://andrew-indol.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/WEBSITE-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Website">
   </a>
   <!-- X / Twitter -->
   <a href="https://x.com/Andrewst093" target="_blank">
@@ -53,12 +87,6 @@
   </a>
   <!-- Ko-fi -->
   <a href="https://ko-fi.com/andrewst9090" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-%23F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+    <img src="https://img.shields.io/badge/KO--FI-%23F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
   </a>
-</p>
-
----
-
-<p align="center">
-  ⚡ <em>"Code, compile, learn, repeat."</em>
 </p>
