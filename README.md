@@ -83,7 +83,7 @@ Soy un apasionado **Desarrollador de Software** y entusiasta de los **Motores de
 
 ---
 
-<!-- ================= GITHUB STATS (COMENTADO PARA EVITAR ERRORES) ================= -->
+<!-- ================= GITHUB STATS (Descomenta cuando soluciones el error del usuario) ================= -->
 <!-- 
 ### 📊 Mis Estadísticas de GitHub
 
@@ -99,18 +99,20 @@ Soy un apasionado **Desarrollador de Software** y entusiasta de los **Motores de
 ---
 -->
 
-<!-- ================= SOCIALS (Iconos Grandes) ================= -->
+<!-- ================= SOCIALS (Badges Grandes) ================= -->
 ### 🌐 Conecta conmigo
 
 <div align="center">
-  <a href="https://andrew-indol.vercel.app/" target="_blank" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="60" height="60" alt="Website" />
+  <a href="https://andrew-indol.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" height="50" alt="Website">
   </a>
-  <a href="https://x.com/Andrewst093" target="_blank" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="60" height="60" alt="X" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Andrewst093" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="50" alt="X">
   </a>
-  <a href="https://ko-fi.com/andrewst9090" target="_blank" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://cdn.simpleicons.org/kofi/F16061" width="60" height="60" alt="Ko-fi" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ko-fi.com/andrewst9090" target="_blank">
+    <img src="https://img.shields.io/badge/KO--FI-%23F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" alt="Ko-fi">
   </a>
 </div>
 
