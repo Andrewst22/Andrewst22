@@ -23,7 +23,7 @@
 
 </td>
 <td width="35%" align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/hi.gif" width="180" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpqdWR5ajR1b2d3d3FpMW1wb3ppcml0b3V2OHpxYzhkMHF3YjA5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" />
 </td>
 </tr>
 </table>
