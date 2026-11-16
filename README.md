@@ -19,7 +19,7 @@
 
 ---
 
-<!-- ================= ABOUT ME (Sin tabla, más amplio) ================= -->
+<!-- ================= ABOUT ME ================= -->
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpqdWR5ajR1b2d3d3FpMW1wb3ppcml0b3V2OHpxYzhkMHF3YjA5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" align="right" />
 </div>
@@ -87,6 +87,7 @@ Soy un apasionado **Desarrollador de Software** y entusiasta de los **Motores de
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
+  <!-- SI SIGUE DANDO ERROR, REVISA QUE "Andrewst093" SEA TU USUARIO EXACTO -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrewst093&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewst093&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=12&langs_count=8" />
 </div>
@@ -97,20 +98,24 @@ Soy un apasionado **Desarrollador de Software** y entusiasta de los **Motores de
 
 ---
 
-<!-- ================= SOCIALS ================= -->
+<!-- ================= SOCIALS (Estilo Apps Android) ================= -->
 ### 🌐 Conecta conmigo
 
-<p align="center">
-  <a href="https://andrew-indol.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Website">
+<div align="center">
+  <a href="https://andrew-indol.vercel.app/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Website" height="48">
   </a>
-  <a href="https://x.com/Andrewst093" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Andrewst093" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" height="48">
   </a>
-  <a href="https://ko-fi.com/andrewst9090" target="_blank">
-    <img src="https://img.shields.io/badge/KO--FI-%23F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://ko-fi.com/andrewst9090" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=F16061" alt="Ko-fi" height="48">
   </a>
-</p>
+</div>
+
+<br>
 
 <!-- ================= FOOTER ================= -->
 <div align="center">
