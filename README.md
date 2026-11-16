@@ -83,45 +83,17 @@ Soy un apasionado **Desarrollador de Software** y entusiasta de los **Motores de
 
 ---
 
-<!-- ================= FEATURED PROJECTS ================= -->
-### 🚀 Proyectos Destacados
-
-<div align="center">
-  <a href="https://github.com/Andrewst22/Nebula">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrewst22&repo=Nebula&theme=chartreuse-dark&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Andrewst22/Status-Keep">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrewst22&repo=Status-Keep&theme=chartreuse-dark&hide_border=true&border_radius=12" />
-  </a>
-</div>
-
----
-
-<!-- ================= GITHUB STATS ================= -->
+<!-- ================= GITHUB STATS (Usando instancia alternativa) ================= -->
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrewst22&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewst22&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=12&langs_count=8" />
+  <!-- Se usa github-stats-extended.vercel.app que es una alternativa mantenida -->
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Andrewst22&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Andrewst22&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=12&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewst22&theme=chartreuse-dark&hide_border=true&border_radius=12" alt="GitHub Streak" />
-</div>
-
-<!-- ================= TROPHIES ================= -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Andrewst22&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
-</div>
-
----
-
-<!-- ================= ACTIVITY GRAPH (SNAKE) ================= -->
-### 🐍 Mi Actividad de Contribución
-
-<div align="center">
-  <!-- NOTA: Esta imagen requiere configurar un GitHub Action. Si no lo has hecho, no se verá. -->
-  <img src="https://raw.githubusercontent.com/Andrewst22/Andrewst22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://streak-stats.demolab.com/?user=Andrewst22&theme=chartreuse-dark&hide_border=true&border_radius=12" alt="GitHub Streak" />
 </div>
 
 ---
