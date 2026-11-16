@@ -18,13 +18,6 @@
 </div>
 
 ---
-### 🐍 Mi Actividad
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Andrewst093/Andrewst093/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-
 
 <!-- ================= ABOUT ME ================= -->
 <div align="center">
