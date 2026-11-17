@@ -20,7 +20,6 @@
 ---
 
 <!-- ================= ABOUT ME ================= -->
-### 👋 Hi, I'm Andrew ⚡
 
 <div align="center">
   <i>Building the future, one line of code at a time. Passionate about low-level software and system architecture.</i>
