@@ -20,28 +20,33 @@
 ---
 
 <!-- ================= ABOUT ME ================= -->
-### 👋 ¡Hola! Soy Andrew ⚡
+### 👋 Hi, I'm Andrew ⚡
 
 <div align="center">
-  <i>Construyendo el futuro, una línea de código a la vez. Apasionado por el software de bajo nivel y la arquitectura de sistemas.</i>
+  <i>Building the future, one line of code at a time. Passionate about low-level software and system architecture.</i>
 </div>
 <br>
 
-Soy un **Desarrollador de Software** radicado en Venezuela 🇻🇪, enfocado en la creación de sistemas robustos, la exploración de la arquitectura de motores de videojuegos y las mecánicas de portabilidad. Disfruto resolver problemas complejos y llevar las ideas desde el concepto hasta el despliegue en producción.
+<div align="right">
+  <!-- Animación limpia y profesional de un entorno de desarrollo -->
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" alt="Coding Animation" />
+</div>
 
-*   🔭 **Enfoque Actual:** Desarrollo Full-Stack mientras profundizo en sistemas de bajo nivel y optimización de código.
-*   🚀 **Proyectos Recientes:** Desarrollando **Nebula** (plataforma de mensajería descentralizada) y **Status-Keep** (gestor de estados open-source en Flutter).
-*   💬 **Mi Stack:** JavaScript, Python, C++, Dart/Flutter, Godot, Unity y entornos Linux.
-*   🌱 **Filosofía:** El aprendizaje es constante. Siempre estoy explorando nuevas herramientas y arquitecturas.
-*   🎮 **Fuera del código:** Videojuegos, desarrollo homebrew y creación de experiencias interactivas.
-*   📬 **Conectemos:** Mira mi [Portafolio](https://andrew-indol.vercel.app/) o apóyame en [Ko-fi](https://ko-fi.com/andrewst9090).
+I am a **Software Developer** focused on building robust systems, exploring game engine architecture, and porting mechanics. I enjoy solving complex problems and taking ideas from concept to production deployment.
+
+*   🔭 **Current Focus:** Full-Stack development while diving deep into low-level systems and code optimization.
+*   💬 **My Stack:** JavaScript, Python, C++, Dart/Flutter, Godot, Unity, and Linux environments.
+*   🌱 **Philosophy:** Constant learning. Always exploring new tools, architectures, and engineering patterns to write cleaner, faster code.
+*   🕹️ **Outside the Code:** Video games, homebrew development, and creating interactive experiences.
+*   ⚡ **Fun Fact:** I believe the best way to truly understand a system is to try and build it from scratch.
+*   📬 **Let's Connect:** Check out my [Portfolio](https://andrew-indol.vercel.app/) or support my work on [Ko-fi](https://ko-fi.com/andrewst9090).
 
 <br clear="both"/>
 
 ---
 
 <!-- ================= CURRENT FOCUS ================= -->
-### ⚡ En qué estoy enfocado ahora
+### ⚡ What I'm focused on right now
 
 <div align="center">
   <img src="https://img.shields.io/badge/🧠_Learning-Low--level%20systems%20%26%20tools-6e40c9?style=for-the-badge" />
@@ -52,9 +57,9 @@ Soy un **Desarrollador de Software** radicado en Venezuela 🇻🇪, enfocado en
 ---
 
 <!-- ================= SKILLS ================= -->
-### 💻 Mi Stack Tecnológico
+### 💻 My Tech Stack
 
-#### **Lenguajes**
+#### **Languages**
 <p>
   <img src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -64,7 +69,7 @@ Soy un **Desarrollador de Software** radicado en Venezuela 🇻🇪, enfocado en
   <img src="https://img.shields.io/badge/DART-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-#### **Frameworks y Motores**
+#### **Frameworks & Engines**
 <p>
   <img src="https://img.shields.io/badge/FLUTTER-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/GODOT-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white" />
@@ -72,7 +77,7 @@ Soy un **Desarrollador de Software** radicado en Venezuela 🇻🇪, enfocado en
   <img src="https://img.shields.io/badge/NODE.JS-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-#### **Bases de Datos y Herramientas**
+#### **Databases & Tools**
 <p>
   <img src="https://img.shields.io/badge/SQLITE-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/POSTGRESQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -83,7 +88,7 @@ Soy un **Desarrollador de Software** radicado en Venezuela 🇻🇪, enfocado en
 ---
 
 <!-- ================= GITHUB STATS ================= -->
-### 📊 Mis Estadísticas de GitHub
+### 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Andrewst22&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" />
@@ -96,8 +101,8 @@ Soy un **Desarrollador de Software** radicado en Venezuela 🇻🇪, enfocado en
 
 ---
 
-<!-- ================= SOCIALS (Badges Grandes) ================= -->
-### 🌐 Conecta conmigo
+<!-- ================= SOCIALS ================= -->
+### 🌐 Connect with me
 
 <div align="center">
   <a href="https://andrew-indol.vercel.app/" target="_blank">
