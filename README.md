@@ -27,10 +27,9 @@
 </div>
 <br>
 
-<div align="right">
-  <!-- Animación limpia y profesional de un entorno de desarrollo -->
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" alt="Coding Animation" />
-</div>
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
 I am a **Software Developer** focused on building robust systems, exploring game engine architecture, and porting mechanics. I enjoy solving complex problems and taking ideas from concept to production deployment.
 
@@ -38,8 +37,15 @@ I am a **Software Developer** focused on building robust systems, exploring game
 *   💬 **My Stack:** JavaScript, Python, C++, Dart/Flutter, Godot, Unity, and Linux environments.
 *   🌱 **Philosophy:** Constant learning. Always exploring new tools, architectures, and engineering patterns to write cleaner, faster code.
 *   🕹️ **Outside the Code:** Video games, homebrew development, and creating interactive experiences.
-*   ⚡ **Fun Fact:** I believe the best way to truly understand a system is to try and build it from scratch.
 *   📬 **Let's Connect:** Check out my [Portfolio](https://andrew-indol.vercel.app/) or support my work on [Ko-fi](https://ko-fi.com/andrewst9090).
+
+</td>
+<td width="40%" align="center" valign="middle">
+  <!-- GIF mejorado y alineado perfectamente -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280" alt="Coding Animation" />
+</td>
+</tr>
+</table>
 
 <br clear="both"/>
 
