@@ -27,25 +27,27 @@
 </div>
 <br>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+<!-- GIF alineado a la derecha sin cuadros -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="320" alt="Coding Animation" />
 
 I am a **Software Developer** focused on building robust systems, exploring game engine architecture, and porting mechanics. I enjoy solving complex problems and taking ideas from concept to production deployment.
 
-*   🔭 **Current Focus:** Full-Stack development while diving deep into low-level systems and code optimization.
-*   💬 **My Stack:** JavaScript, Python, C++, Dart/Flutter, Godot, Unity, and Linux environments.
-*   🌱 **Philosophy:** Constant learning. Always exploring new tools, architectures, and engineering patterns to write cleaner, faster code.
-*   🕹️ **Outside the Code:** Video games, homebrew development, and creating interactive experiences.
-*   📬 **Let's Connect:** Check out my [Portfolio](https://andrew-indol.vercel.app/) or support my work on [Ko-fi](https://ko-fi.com/andrewst9090).
+<br>
 
-</td>
-<td width="40%" align="center" valign="middle">
-  <!-- GIF mejorado y alineado perfectamente -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280" alt="Coding Animation" />
-</td>
-</tr>
-</table>
+#### 🔭 Current Focus
+Full-Stack development while diving deep into low-level systems and code optimization.
+
+#### 💬 My Stack
+JavaScript, Python, C++, Dart/Flutter, Godot, Unity, and Linux environments.
+
+#### 🌱 Philosophy
+Constant learning. Always exploring new tools, architectures, and engineering patterns to write cleaner, faster code.
+
+#### 🕹️ Outside the Code
+Video games, homebrew development, and creating interactive experiences.
+
+#### 📬 Let's Connect
+Check out my [Portfolio](https://andrew-indol.vercel.app/) or support my work on [Ko-fi](https://ko-fi.com/andrewst9090).
 
 <br clear="both"/>
 
@@ -55,9 +57,9 @@ I am a **Software Developer** focused on building robust systems, exploring game
 ### ⚡ What I'm focused on right now
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🧠_Learning-Low--level%20systems%20%26%20tools-6e40c9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🛠️_Building-Game%20engines%20%26%20ports-39D353?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎯_Goal-Ship%20polished%20projects-ff6f00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Low--level%20systems-6e40c9?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learning" />
+  <img src="https://img.shields.io/badge/Building-Game%20Engines-39D353?style=for-the-badge&logo=godotengine&logoColor=white" alt="Building" />
+  <img src="https://img.shields.io/badge/Goal-Ship%20polished%20projects-ff6f00?style=for-the-badge&logo=target&logoColor=white" alt="Goal" />
 </div>
 
 ---
