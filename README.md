@@ -83,21 +83,6 @@ Soy un apasionado **Desarrollador de Software** y entusiasta de los **Motores de
 
 ---
 
-<!-- ================= GITHUB STATS (Usando instancia alternativa) ================= -->
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-  <!-- Se usa github-stats-extended.vercel.app que es una alternativa mantenida -->
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Andrewst22&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Andrewst22&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=12&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Andrewst22&theme=chartreuse-dark&hide_border=true&border_radius=12" alt="GitHub Streak" />
-</div>
-
----
-
 <!-- ================= QUOTE ================= -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="Dev Quote" />
