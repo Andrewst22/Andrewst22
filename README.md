@@ -20,22 +20,21 @@
 ---
 
 <!-- ================= ABOUT ME ================= -->
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpqdWR5ajR1b2d3d3FpMW1wb3ppcml0b3V2OHpxYzhkMHF3YjA5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" align="right" />
-</div>
-
 ### 👋 ¡Hola! Soy Andrew ⚡
 
-Soy un apasionado **Desarrollador de Software** y entusiasta de los **Motores de Videojuegos**. Me encanta construir cosas desde cero, explorar sistemas de bajo nivel y llevar los límites de lo que puedo crear.
-
+<div align="center">
+  <i>Construyendo el futuro, una línea de código a la vez. Apasionado por el software de bajo nivel y la arquitectura de sistemas.</i>
+</div>
 <br>
 
-* 🔭 **Trabajando actualmente en:** Desarrollo de software general, explorando la arquitectura de motores de juegos y mecánicas de portabilidad.
-* 🌱 **Aprendiendo:** Evolución constante en múltiples tecnologías, sistemas de bajo nivel y herramientas diarias.
-* 💬 **Pregúntame sobre:** JavaScript, Python, C++, Dart/Flutter, Godot, Unity y entornos Linux.
-* 🎮 **Fuera de la tecnología:** Videojuegos, desarrollo homebrew y experiencias interactivas.
-* 🚀 **Mi Portafolio:** [andrew-indol.vercel.app](https://andrew-indol.vercel.app/)
-* 📬 **Contáctame:** [X / @Andrewst093](https://x.com/Andrewst093) · [Ko-fi](https://ko-fi.com/andrewst9090)
+Soy un **Desarrollador de Software** radicado en Venezuela 🇻🇪, enfocado en la creación de sistemas robustos, la exploración de la arquitectura de motores de videojuegos y las mecánicas de portabilidad. Disfruto resolver problemas complejos y llevar las ideas desde el concepto hasta el despliegue en producción.
+
+*   🔭 **Enfoque Actual:** Desarrollo Full-Stack mientras profundizo en sistemas de bajo nivel y optimización de código.
+*   🚀 **Proyectos Recientes:** Desarrollando **Nebula** (plataforma de mensajería descentralizada) y **Status-Keep** (gestor de estados open-source en Flutter).
+*   💬 **Mi Stack:** JavaScript, Python, C++, Dart/Flutter, Godot, Unity y entornos Linux.
+*   🌱 **Filosofía:** El aprendizaje es constante. Siempre estoy explorando nuevas herramientas y arquitecturas.
+*   🎮 **Fuera del código:** Videojuegos, desarrollo homebrew y creación de experiencias interactivas.
+*   📬 **Conectemos:** Mira mi [Portafolio](https://andrew-indol.vercel.app/) o apóyame en [Ko-fi](https://ko-fi.com/andrewst9090).
 
 <br clear="both"/>
 
