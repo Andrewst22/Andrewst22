@@ -46,7 +46,7 @@ Constant learning. Always exploring new tools, architectures, and engineering pa
 Video games, homebrew development, and creating interactive experiences.
 
 #### 📬 Let's Connect
-Check out my [Portfolio](https://andrew-indol.vercel.app/) or support my work on [Ko-fi](https://ko-fi.com/andrewst9090).
+support my work on [Ko-fi](https://ko-fi.com/andrewst9090).
 
 <br clear="both"/>
 
