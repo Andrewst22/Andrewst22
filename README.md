@@ -112,9 +112,6 @@ support my work on [Ko-fi](https://ko-fi.com/andrewst9090).
 ### 🌐 Connect with me
 
 <div align="center">
-  <a href="https://andrew-indol.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" height="50" alt="Website">
-  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Andrewst093" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="50" alt="X">
